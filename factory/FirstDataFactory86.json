@@ -1,0 +1,9 @@
+{
+	"name": "FirstDataFactory86",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4e90c9f2-79c8-4d5b-b27a-ed16ea9fbd3c",
+		"tenantId": "51653fd5-df30-477e-8466-3cebb51374b3"
+	}
+}
